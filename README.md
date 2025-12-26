@@ -18,9 +18,13 @@ This project automates the extraction of candidate information from **multiple r
 ## 🧠 Tech Stack
 
 Python
+
 Streamlit
+
 LangChain
+
 Google Gemini LLM
+
 PyPDF2, python-docx
 
 
@@ -29,16 +33,22 @@ PyPDF2, python-docx
 ## ⚙️ How It Works
 
 Upload ZIP file
+
 Extract resume text
+
 Convert unstructured text → structured schema
+
 Aggregate results
+
 Download CSV
+
 
 ---
 
 ## ▶️ How to Run
 
 pip install -r requirements.txt
+
 streamlit run main.py
 
 ---
@@ -47,6 +57,8 @@ streamlit run main.py
 ## 📌 Real-World Use Cases
 
 HR resume screening automation
+
 Bulk candidate processing for campuses
+
 Startup hiring automation
 
